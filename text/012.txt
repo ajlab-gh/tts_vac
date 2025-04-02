@@ -1,1 +1,1 @@
-Now, let's upload our changes powerpoint to the input directory, describe our changes, and let the magic happen!
+Now, let's upload our changed powerpoint to the input directory, describe our changes, and let the magic happen!
