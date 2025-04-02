@@ -1,0 +1,1 @@
+In our test, you can see our input directory already contains a powerpoint file.

@@ -1,0 +1,1 @@
+From the users perspective, it works by simply uploading your powerpoint file into the input directory!

@@ -1,0 +1,1 @@
+Through a series of automations and microservices, we've built a tool for internal stakeholders that automatically creates video content from a simple source. A Powerpoint presentation. 

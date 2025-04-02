@@ -1,0 +1,1 @@
+Did you spot the issue? The video was supposed to show a yellow triangle, but the triangle was actually blue!
